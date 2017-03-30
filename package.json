@@ -30,7 +30,7 @@
         "url": "https://github.com/broketech/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/broketech/node-multi-hashing.git",
+        "multi-hashing": "./unomp-multi-hashing/",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
